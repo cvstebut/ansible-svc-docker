@@ -1,0 +1,5 @@
+# from GitHub
+# robertdebock.bootstrap
+- src: https://github.com/geerlingguy/ansible-role-docker
+  name: geerlingguy.docker
+

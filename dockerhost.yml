@@ -7,6 +7,9 @@
       vars:
         pip_install_packages:
             - name: docker
+        path_to_add:
+            - "/usr/local/bin"
 
       roles:
         - geerlingguy.docker
+        - cvstebut.path
